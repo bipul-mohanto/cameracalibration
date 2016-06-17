@@ -1,0 +1,20 @@
+The 2D calibrated pattern information
+horizontal period 17mm
+vertical period 17mm
+
+z increases as the pattern moves away from the camera :
+
+ CalibratedPatternImage1 z1=0
+ CalibratedPatternImage2 z2=17 mm
+ CalibratedPatternImage3 z3=30 mm
+ CalibratedPatternImage4 z4=43 mm
+ CalibratedPatternImage5 z5=57 mm
+
+ CalibratedPatternImage6 : position of CalibratedPatternImage3 rotated of 10°
+ CalibratedPatternImage7 : position of CalibratedPatternImage3 rotated of 20°
+ CalibratedPatternImage8 : position of CalibratedPatternImage3 rotated of 30°
+
+
+Camera parameters:
+- focal length 50 mm
+- pixel size 6.7 µm
